@@ -18,7 +18,7 @@ To install: Once you have untared maude-mode.tar.gz in your
 home directory you will find all the files in ~/MaudeMode/ .
 Now just add the following lines to your ~/.emacs:
 
-
+```lisp
 ;; ------------------- Maude mode
 
 (setq load-path (cons "~/MaudeMode" load-path))
