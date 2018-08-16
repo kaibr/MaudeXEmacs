@@ -29,7 +29,7 @@ Now just add the following lines to your ~/.emacs:
 (require 'maude-mode)
 
 ;; -------------------
-
+```
 
 Adapt the maude-cmd to your environment.    
 
